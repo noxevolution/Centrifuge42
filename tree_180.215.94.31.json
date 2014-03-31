@@ -1,0 +1,93 @@
+[
+    {
+        "children": [
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "key": "NPS_Telstra_NA_NA_NPS-CVA-NPSScore", 
+                                        "title": "NPS Score"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "key": "NPS_Telstra_NA_NA_NPS-CVA-Promoters", 
+                                        "title": "% Promoters"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "key": "NPS_Telstra_NA_NA_NPS-CVA-Passives", 
+                                        "title": "% Passives"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "key": "NPS_Telstra_NA_NA_NPS-CVA-Detractors", 
+                                        "title": "% Detractors"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "key": "NPS_Telstra_NA_NA_NPS-CVA-Reactors", 
+                                        "title": "% Reactors"
+                                    }
+                                ], 
+                                "key": "", 
+                                "title": "Overall"
+                            }
+                        ], 
+                        "key": "", 
+                        "title": "Telstra"
+                    }
+                ], 
+                "key": "", 
+                "title": "NPS"
+            }, 
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "key": "NPS_Telstra_NA_NA_NPS-CVA-XYZ", 
+                                        "title": "%XYZ"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "key": "NPS_Telstra_NA_NA_NPS-CVA-ABC", 
+                                        "title": "%ABC"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "key": "NPS_Telstra_NA_NA_NPS-CVA-UV", 
+                                        "title": "%UV"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "key": "NPS_Telstra_NA_NA_NPS-CVA-MN", 
+                                        "title": "%MN"
+                                    }, 
+                                    {
+                                        "key": "NPS_Telstra_NA_NA_NPS-CVA-JKL", 
+                                        "title": "%JKL"
+                                    }
+                                ], 
+                                "key": "", 
+                                "title": "Overall 2nd"
+                            }
+                        ], 
+                        "key": "", 
+                        "title": "Telstra 2nd"
+                    }
+                ], 
+                "key": "", 
+                "title": "NPS 2nd"
+            }
+        ], 
+        "key": "", 
+        "title": "Central Question"
+    }
+]

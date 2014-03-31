@@ -1,0 +1,110 @@
+[
+    {
+        "key": "", 
+        "children": [
+            {
+                "select": true, 
+                "children": [
+                    {
+                        "select": true, 
+                        "children": [
+                            {
+                                "select": true, 
+                                "children": [
+                                    {
+                                        "select": false, 
+                                        "children": [], 
+                                        "key": "NPS_Telstra_NA_NA_NPS-CVA-NPSScore", 
+                                        "title": "NPS Score"
+                                    }, 
+                                    {
+                                        "select": false, 
+                                        "children": [], 
+                                        "key": "NPS_Telstra_NA_NA_NPS-CVA-Promoters", 
+                                        "title": "% Promoters"
+                                    }, 
+                                    {
+                                        "select": false, 
+                                        "children": [], 
+                                        "key": "NPS_Telstra_NA_NA_NPS-CVA-Passives", 
+                                        "title": "% Passives"
+                                    }, 
+                                    {
+                                        "select": false, 
+                                        "children": [], 
+                                        "key": "NPS_Telstra_NA_NA_NPS-CVA-Detractors", 
+                                        "title": "% Detractors"
+                                    }, 
+                                    {
+                                        "select": false, 
+                                        "children": [], 
+                                        "key": "NPS_Telstra_NA_NA_NPS-CVA-Reactors", 
+                                        "title": "% Reactors"
+                                    }
+                                ], 
+                                "key": "", 
+                                "title": "Overall"
+                            }
+                        ], 
+                        "key": "", 
+                        "title": "Telstra"
+                    }
+                ], 
+                "key": "", 
+                "title": "NPS"
+            }, 
+            {
+                "select": true, 
+                "children": [
+                    {
+                        "select": true, 
+                        "children": [
+                            {
+                                "select": true, 
+                                "children": [
+                                    {
+                                        "select": true, 
+                                        "children": [], 
+                                        "key": "NPS_Telstra_NA_NA_NPS-CVA-XYZ", 
+                                        "title": "%XYZ"
+                                    }, 
+                                    {
+                                        "select": true, 
+                                        "children": [], 
+                                        "key": "NPS_Telstra_NA_NA_NPS-CVA-ABC", 
+                                        "title": "%ABC"
+                                    }, 
+                                    {
+                                        "select": true, 
+                                        "children": [], 
+                                        "key": "NPS_Telstra_NA_NA_NPS-CVA-UV", 
+                                        "title": "%UV"
+                                    }, 
+                                    {
+                                        "select": true, 
+                                        "children": [], 
+                                        "key": "NPS_Telstra_NA_NA_NPS-CVA-MN", 
+                                        "title": "%MN"
+                                    }, 
+                                    {
+                                        "key": "NPS_Telstra_NA_NA_NPS-CVA-JKL", 
+                                        "select": true, 
+                                        "title": "%JKL"
+                                    }
+                                ], 
+                                "key": "", 
+                                "title": "Overall 2nd"
+                            }
+                        ], 
+                        "key": "", 
+                        "title": "Telstra 2nd"
+                    }
+                ], 
+                "key": "", 
+                "title": "NPS 2nd"
+            }
+        ], 
+        "select": true, 
+        "title": "Central Question"
+    }
+]

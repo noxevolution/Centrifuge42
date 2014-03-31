@@ -1,0 +1,33 @@
+<html>
+<head>
+<script type="text/javascript" src="jquery/jquery.js"></script>
+<script type="text/javascript" src="jquery/jquery-ui.custom.js"></script>
+<script type="text/javascript" src="jquery/jquery-ui-other.min.js"></script>
+<title> DnD </title>
+<style>
+.draggable{height: 150px; width: 150px; float: left; padding: 0.5em; margin: 10px 10px 10px 0; border: 2px solid #000;}
+.droppable{height: 100px; width: 100px; float: left; padding: 0.5em; margin: 10px; border: 2px solid #000}
+</style>
+<script type="text/javascript">
+	$(function(){
+		$('.draggable').draggable();
+		$('.droppable').dropable(function(){
+			drop: {
+				alert('dropped');
+			}
+		});
+	});
+</script>
+
+</head>
+<body>
+	<div class="draggable">
+		<p>Drag me</p>
+	</div>
+	<div style="margin-left: 10px;"></div>
+	<div class="droppable">
+		<p>Drop me</p>
+	</div>
+
+</body>
+</html>

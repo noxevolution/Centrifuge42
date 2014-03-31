@@ -1,0 +1,28 @@
+<html>
+<head>
+<script type="text/javascript" src="http://mbostock.github.com/d3/d3.js"></script>
+<title>Creating SVG groups with D3.js</title>
+</head>
+ 
+<body>
+<div id="d3group"></div>
+ 
+<script type="text/javascript">
+    var svg = d3.select("body").append("svg")
+							
+				svg.append("line")
+				.attr({
+				  x1: 100 ,
+				  x2: 23 ,
+				  y1: 67 ,
+				  y2: 70
+				})
+				.style("stroke", 'black')
+				.attr("id","viz");
+         
+ 
+    
+</script>
+ 
+</body>
+</html>

@@ -1,0 +1,1142 @@
+[
+    {
+        "name": "NPS Score", 
+        "key": "NPS_Telstra_NA_NA_NPS-CVA-NPSScore", 
+        "time": [
+            {
+                "date": "2010-08-01", 
+                "trendingValue": -57.1
+            }, 
+            {
+                "date": "2010-09-01", 
+                "trendingValue": -55.8
+            }, 
+            {
+                "date": "2010-10-01", 
+                "trendingValue": -55.2
+            }, 
+            {
+                "date": "2010-11-01", 
+                "trendingValue": -56.4
+            }, 
+            {
+                "date": "2010-12-01", 
+                "trendingValue": -54.0
+            }, 
+            {
+                "date": "2011-01-01", 
+                "trendingValue": -51.6
+            }, 
+            {
+                "date": "2011-02-01", 
+                "trendingValue": -53.5
+            }, 
+            {
+                "date": "2011-03-01", 
+                "trendingValue": -52.6
+            }, 
+            {
+                "date": "2011-04-01", 
+                "trendingValue": -49.0
+            }, 
+            {
+                "date": "2011-05-01", 
+                "trendingValue": -45.7
+            }, 
+            {
+                "date": "2011-06-01", 
+                "trendingValue": -46.8
+            }, 
+            {
+                "date": "2011-07-01", 
+                "trendingValue": -44.6
+            }, 
+            {
+                "date": "2011-08-01", 
+                "trendingValue": -41.3
+            }, 
+            {
+                "date": "2011-09-01", 
+                "trendingValue": -46.3
+            }, 
+            {
+                "date": "2011-10-01", 
+                "trendingValue": -44.4
+            }, 
+            {
+                "date": "2011-11-01", 
+                "trendingValue": -43.3
+            }, 
+            {
+                "date": "2011-12-01", 
+                "trendingValue": -42.0
+            }, 
+            {
+                "date": "2012-01-01", 
+                "trendingValue": -39.9
+            }, 
+            {
+                "date": "2012-02-01", 
+                "trendingValue": -41.4
+            }, 
+            {
+                "date": "2012-03-01", 
+                "trendingValue": -43.8
+            }, 
+            {
+                "date": "2012-04-01", 
+                "trendingValue": -42.8
+            }, 
+            {
+                "date": "2012-05-01", 
+                "trendingValue": -41.5
+            }, 
+            {
+                "date": "2012-06-01", 
+                "trendingValue": -40.0
+            }, 
+            {
+                "date": "2012-07-01", 
+                "trendingValue": -42.3
+            }, 
+            {
+                "date": "2012-08-01", 
+                "trendingValue": -42.4
+            }, 
+            {
+                "date": "2012-09-01", 
+                "trendingValue": -46.4
+            }, 
+            {
+                "date": "2012-10-01", 
+                "trendingValue": -42.7
+            }
+        ]
+    }, 
+    {
+        "name": "% Promoters", 
+        "key": "NPS_Telstra_NA_NA_NPS-CVA-Promoters", 
+        "time": [
+            {
+                "date": "2010-08-01", 
+                "trendingValue": 11.5
+            }, 
+            {
+                "date": "2010-09-01", 
+                "trendingValue": 11.6
+            }, 
+            {
+                "date": "2010-10-01", 
+                "trendingValue": 12.4
+            }, 
+            {
+                "date": "2010-11-01", 
+                "trendingValue": 11.0
+            }, 
+            {
+                "date": "2010-12-01", 
+                "trendingValue": 12.2
+            }, 
+            {
+                "date": "2011-01-01", 
+                "trendingValue": 13.2
+            }, 
+            {
+                "date": "2011-02-01", 
+                "trendingValue": 12.8
+            }, 
+            {
+                "date": "2011-03-01", 
+                "trendingValue": 13.4
+            }, 
+            {
+                "date": "2011-04-01", 
+                "trendingValue": 14.9
+            }, 
+            {
+                "date": "2011-05-01", 
+                "trendingValue": 14.6
+            }, 
+            {
+                "date": "2011-06-01", 
+                "trendingValue": 15.2
+            }, 
+            {
+                "date": "2011-07-01", 
+                "trendingValue": 15.2
+            }, 
+            {
+                "date": "2011-08-01", 
+                "trendingValue": 16.2
+            }, 
+            {
+                "date": "2011-09-01", 
+                "trendingValue": 14.5
+            }, 
+            {
+                "date": "2011-10-01", 
+                "trendingValue": 15.9
+            }, 
+            {
+                "date": "2011-11-01", 
+                "trendingValue": 16.9
+            }, 
+            {
+                "date": "2011-12-01", 
+                "trendingValue": 16.4
+            }, 
+            {
+                "date": "2012-01-01", 
+                "trendingValue": 17.0
+            }, 
+            {
+                "date": "2012-02-01", 
+                "trendingValue": 17.3
+            }, 
+            {
+                "date": "2012-03-01", 
+                "trendingValue": 15.5
+            }, 
+            {
+                "date": "2012-04-01", 
+                "trendingValue": 16.8
+            }, 
+            {
+                "date": "2012-05-01", 
+                "trendingValue": 17.4
+            }, 
+            {
+                "date": "2012-06-01", 
+                "trendingValue": 16.9
+            }, 
+            {
+                "date": "2012-07-01", 
+                "trendingValue": 16.7
+            }, 
+            {
+                "date": "2012-08-01", 
+                "trendingValue": 15.9
+            }, 
+            {
+                "date": "2012-09-01", 
+                "trendingValue": 14.8
+            }, 
+            {
+                "date": "2012-10-01", 
+                "trendingValue": 16.0
+            }
+        ]
+    }, 
+    {
+        "name": "% Passives", 
+        "key": "NPS_Telstra_NA_NA_NPS-CVA-Passives", 
+        "time": [
+            {
+                "date": "2010-08-01", 
+                "trendingValue": 19.8
+            }, 
+            {
+                "date": "2010-09-01", 
+                "trendingValue": 21.0
+            }, 
+            {
+                "date": "2010-10-01", 
+                "trendingValue": 20.1
+            }, 
+            {
+                "date": "2010-11-01", 
+                "trendingValue": 21.7
+            }, 
+            {
+                "date": "2010-12-01", 
+                "trendingValue": 21.6
+            }, 
+            {
+                "date": "2011-01-01", 
+                "trendingValue": 21.9
+            }, 
+            {
+                "date": "2011-02-01", 
+                "trendingValue": 20.8
+            }, 
+            {
+                "date": "2011-03-01", 
+                "trendingValue": 20.6
+            }, 
+            {
+                "date": "2011-04-01", 
+                "trendingValue": 21.1
+            }, 
+            {
+                "date": "2011-05-01", 
+                "trendingValue": 25.2
+            }, 
+            {
+                "date": "2011-06-01", 
+                "trendingValue": 22.9
+            }, 
+            {
+                "date": "2011-07-01", 
+                "trendingValue": 24.9
+            }, 
+            {
+                "date": "2011-08-01", 
+                "trendingValue": 26.2
+            }, 
+            {
+                "date": "2011-09-01", 
+                "trendingValue": 24.7
+            }, 
+            {
+                "date": "2011-10-01", 
+                "trendingValue": 23.9
+            }, 
+            {
+                "date": "2011-11-01", 
+                "trendingValue": 22.9
+            }, 
+            {
+                "date": "2011-12-01", 
+                "trendingValue": 25.1
+            }, 
+            {
+                "date": "2012-01-01", 
+                "trendingValue": 26.1
+            }, 
+            {
+                "date": "2012-02-01", 
+                "trendingValue": 24.0
+            }, 
+            {
+                "date": "2012-03-01", 
+                "trendingValue": 25.3
+            }, 
+            {
+                "date": "2012-04-01", 
+                "trendingValue": 23.7
+            }, 
+            {
+                "date": "2012-05-01", 
+                "trendingValue": 23.6
+            }, 
+            {
+                "date": "2012-06-01", 
+                "trendingValue": 26.2
+            }, 
+            {
+                "date": "2012-07-01", 
+                "trendingValue": 24.3
+            }, 
+            {
+                "date": "2012-08-01", 
+                "trendingValue": 25.7
+            }, 
+            {
+                "date": "2012-09-01", 
+                "trendingValue": 24.0
+            }, 
+            {
+                "date": "2012-10-01", 
+                "trendingValue": 25.4
+            }
+        ]
+    }, 
+    {
+        "name": "% Detractors", 
+        "key": "NPS_Telstra_NA_NA_NPS-CVA-Detractors", 
+        "time": [
+            {
+                "date": "2010-08-01", 
+                "trendingValue": 68.7
+            }, 
+            {
+                "date": "2010-09-01", 
+                "trendingValue": 67.4
+            }, 
+            {
+                "date": "2010-10-01", 
+                "trendingValue": 67.6
+            }, 
+            {
+                "date": "2010-11-01", 
+                "trendingValue": 67.4
+            }, 
+            {
+                "date": "2010-12-01", 
+                "trendingValue": 66.2
+            }, 
+            {
+                "date": "2011-01-01", 
+                "trendingValue": 64.9
+            }, 
+            {
+                "date": "2011-02-01", 
+                "trendingValue": 66.4
+            }, 
+            {
+                "date": "2011-03-01", 
+                "trendingValue": 66.0
+            }, 
+            {
+                "date": "2011-04-01", 
+                "trendingValue": 63.9
+            }, 
+            {
+                "date": "2011-05-01", 
+                "trendingValue": 60.3
+            }, 
+            {
+                "date": "2011-06-01", 
+                "trendingValue": 61.9
+            }, 
+            {
+                "date": "2011-07-01", 
+                "trendingValue": 59.9
+            }, 
+            {
+                "date": "2011-08-01", 
+                "trendingValue": 57.5
+            }, 
+            {
+                "date": "2011-09-01", 
+                "trendingValue": 60.8
+            }, 
+            {
+                "date": "2011-10-01", 
+                "trendingValue": 60.2
+            }, 
+            {
+                "date": "2011-11-01", 
+                "trendingValue": 60.2
+            }, 
+            {
+                "date": "2011-12-01", 
+                "trendingValue": 58.5
+            }, 
+            {
+                "date": "2012-01-01", 
+                "trendingValue": 56.9
+            }, 
+            {
+                "date": "2012-02-01", 
+                "trendingValue": 58.7
+            }, 
+            {
+                "date": "2012-03-01", 
+                "trendingValue": 59.3
+            }, 
+            {
+                "date": "2012-04-01", 
+                "trendingValue": 59.6
+            }, 
+            {
+                "date": "2012-05-01", 
+                "trendingValue": 58.9
+            }, 
+            {
+                "date": "2012-06-01", 
+                "trendingValue": 56.9
+            }, 
+            {
+                "date": "2012-07-01", 
+                "trendingValue": 59.0
+            }, 
+            {
+                "date": "2012-08-01", 
+                "trendingValue": 58.4
+            }, 
+            {
+                "date": "2012-09-01", 
+                "trendingValue": 61.2
+            }, 
+            {
+                "date": "2012-10-01", 
+                "trendingValue": 58.7
+            }
+        ]
+    }, 
+    {
+        "name": "% Reactors", 
+        "key": "NPS_Telstra_NA_NA_NPS-CVA-Reactors", 
+        "time": [
+            {
+                "date": "2010-08-01", 
+                "trendingValue": 68.7
+            }, 
+            {
+                "date": "2010-09-01", 
+                "trendingValue": 67.4
+            }, 
+            {
+                "date": "2010-10-01", 
+                "trendingValue": 67.6
+            }, 
+            {
+                "date": "2010-11-01", 
+                "trendingValue": 67.4
+            }, 
+            {
+                "date": "2010-12-01", 
+                "trendingValue": 66.2
+            }, 
+            {
+                "date": "2011-01-01", 
+                "trendingValue": 64.9
+            }, 
+            {
+                "date": "2011-02-01", 
+                "trendingValue": 66.4
+            }, 
+            {
+                "date": "2011-03-01", 
+                "trendingValue": 66.0
+            }, 
+            {
+                "date": "2011-04-01", 
+                "trendingValue": 63.9
+            }, 
+            {
+                "date": "2011-05-01", 
+                "trendingValue": 60.3
+            }, 
+            {
+                "date": "2011-06-01", 
+                "trendingValue": 61.9
+            }, 
+            {
+                "date": "2011-07-01", 
+                "trendingValue": 59.9
+            }, 
+            {
+                "date": "2011-08-01", 
+                "trendingValue": 57.5
+            }, 
+            {
+                "date": "2011-09-01", 
+                "trendingValue": 60.8
+            }, 
+            {
+                "date": "2011-10-01", 
+                "trendingValue": 60.2
+            }, 
+            {
+                "date": "2011-11-01", 
+                "trendingValue": 60.2
+            }, 
+            {
+                "date": "2011-12-01", 
+                "trendingValue": 58.5
+            }, 
+            {
+                "date": "2012-01-01", 
+                "trendingValue": 56.9
+            }, 
+            {
+                "date": "2012-02-01", 
+                "trendingValue": 58.7
+            }, 
+            {
+                "date": "2012-03-01", 
+                "trendingValue": 59.3
+            }, 
+            {
+                "date": "2012-04-01", 
+                "trendingValue": 59.6
+            }, 
+            {
+                "date": "2012-05-01", 
+                "trendingValue": 58.9
+            }, 
+            {
+                "date": "2012-06-01", 
+                "trendingValue": 56.9
+            }, 
+            {
+                "date": "2012-07-01", 
+                "trendingValue": 59.0
+            }, 
+            {
+                "date": "2012-08-01", 
+                "trendingValue": 58.4
+            }, 
+            {
+                "date": "2012-09-01", 
+                "trendingValue": 61.2
+            }, 
+            {
+                "date": "2012-10-01", 
+                "trendingValue": 58.7
+            }
+        ]
+    }, 
+    {
+        "name": "%XYZ", 
+        "key": "NPS_Telstra_NA_NA_NPS-CVA-XYZ", 
+        "time": [
+            {
+                "date": "2010-08-01", 
+                "trendingValue": 68.7
+            }, 
+            {
+                "date": "2010-09-01", 
+                "trendingValue": 67.4
+            }, 
+            {
+                "date": "2010-10-01", 
+                "trendingValue": 67.6
+            }, 
+            {
+                "date": "2010-11-01", 
+                "trendingValue": 67.4
+            }, 
+            {
+                "date": "2010-12-01", 
+                "trendingValue": 66.2
+            }, 
+            {
+                "date": "2011-01-01", 
+                "trendingValue": 64.9
+            }, 
+            {
+                "date": "2011-02-01", 
+                "trendingValue": 66.4
+            }, 
+            {
+                "date": "2011-03-01", 
+                "trendingValue": 66.0
+            }, 
+            {
+                "date": "2011-04-01", 
+                "trendingValue": 63.9
+            }, 
+            {
+                "date": "2011-05-01", 
+                "trendingValue": 60.3
+            }, 
+            {
+                "date": "2011-06-01", 
+                "trendingValue": 61.9
+            }, 
+            {
+                "date": "2011-07-01", 
+                "trendingValue": 59.9
+            }, 
+            {
+                "date": "2011-08-01", 
+                "trendingValue": 57.5
+            }, 
+            {
+                "date": "2011-09-01", 
+                "trendingValue": 60.8
+            }, 
+            {
+                "date": "2011-10-01", 
+                "trendingValue": 60.2
+            }, 
+            {
+                "date": "2011-11-01", 
+                "trendingValue": 60.2
+            }, 
+            {
+                "date": "2011-12-01", 
+                "trendingValue": 58.5
+            }, 
+            {
+                "date": "2012-01-01", 
+                "trendingValue": 56.9
+            }, 
+            {
+                "date": "2012-02-01", 
+                "trendingValue": 58.7
+            }, 
+            {
+                "date": "2012-03-01", 
+                "trendingValue": 59.3
+            }, 
+            {
+                "date": "2012-04-01", 
+                "trendingValue": 59.6
+            }, 
+            {
+                "date": "2012-05-01", 
+                "trendingValue": 58.9
+            }, 
+            {
+                "date": "2012-06-01", 
+                "trendingValue": 56.9
+            }, 
+            {
+                "date": "2012-07-01", 
+                "trendingValue": 59.0
+            }, 
+            {
+                "date": "2012-08-01", 
+                "trendingValue": 58.4
+            }, 
+            {
+                "date": "2012-09-01", 
+                "trendingValue": 61.2
+            }, 
+            {
+                "date": "2012-10-01", 
+                "trendingValue": 58.7
+            }
+        ]
+    }, 
+    {
+        "name": "%ABC", 
+        "key": "NPS_Telstra_NA_NA_NPS-CVA-ABC", 
+        "time": [
+            {
+                "date": "2010-08-01", 
+                "trendingValue": 68.7
+            }, 
+            {
+                "date": "2010-09-01", 
+                "trendingValue": 67.4
+            }, 
+            {
+                "date": "2010-10-01", 
+                "trendingValue": 67.6
+            }, 
+            {
+                "date": "2010-11-01", 
+                "trendingValue": 67.4
+            }, 
+            {
+                "date": "2010-12-01", 
+                "trendingValue": 66.2
+            }, 
+            {
+                "date": "2011-01-01", 
+                "trendingValue": 64.9
+            }, 
+            {
+                "date": "2011-02-01", 
+                "trendingValue": 66.4
+            }, 
+            {
+                "date": "2011-03-01", 
+                "trendingValue": 66.0
+            }, 
+            {
+                "date": "2011-04-01", 
+                "trendingValue": 63.9
+            }, 
+            {
+                "date": "2011-05-01", 
+                "trendingValue": 60.3
+            }, 
+            {
+                "date": "2011-06-01", 
+                "trendingValue": 61.9
+            }, 
+            {
+                "date": "2011-07-01", 
+                "trendingValue": 59.9
+            }, 
+            {
+                "date": "2011-08-01", 
+                "trendingValue": 57.5
+            }, 
+            {
+                "date": "2011-09-01", 
+                "trendingValue": 60.8
+            }, 
+            {
+                "date": "2011-10-01", 
+                "trendingValue": 60.2
+            }, 
+            {
+                "date": "2011-11-01", 
+                "trendingValue": 60.2
+            }, 
+            {
+                "date": "2011-12-01", 
+                "trendingValue": 58.5
+            }, 
+            {
+                "date": "2012-01-01", 
+                "trendingValue": 56.9
+            }, 
+            {
+                "date": "2012-02-01", 
+                "trendingValue": 58.7
+            }, 
+            {
+                "date": "2012-03-01", 
+                "trendingValue": 59.3
+            }, 
+            {
+                "date": "2012-04-01", 
+                "trendingValue": 59.6
+            }, 
+            {
+                "date": "2012-05-01", 
+                "trendingValue": 58.9
+            }, 
+            {
+                "date": "2012-06-01", 
+                "trendingValue": 56.9
+            }, 
+            {
+                "date": "2012-07-01", 
+                "trendingValue": 59.0
+            }, 
+            {
+                "date": "2012-08-01", 
+                "trendingValue": 58.4
+            }, 
+            {
+                "date": "2012-09-01", 
+                "trendingValue": 61.2
+            }, 
+            {
+                "date": "2012-10-01", 
+                "trendingValue": 58.7
+            }
+        ]
+    }, 
+    {
+        "name": "%UV", 
+        "key": "NPS_Telstra_NA_NA_NPS-CVA-UV", 
+        "time": [
+            {
+                "date": "2010-08-01", 
+                "trendingValue": 68.7
+            }, 
+            {
+                "date": "2010-09-01", 
+                "trendingValue": 67.4
+            }, 
+            {
+                "date": "2010-10-01", 
+                "trendingValue": 67.6
+            }, 
+            {
+                "date": "2010-11-01", 
+                "trendingValue": 67.4
+            }, 
+            {
+                "date": "2010-12-01", 
+                "trendingValue": 66.2
+            }, 
+            {
+                "date": "2011-01-01", 
+                "trendingValue": 64.9
+            }, 
+            {
+                "date": "2011-02-01", 
+                "trendingValue": 66.4
+            }, 
+            {
+                "date": "2011-03-01", 
+                "trendingValue": 66.0
+            }, 
+            {
+                "date": "2011-04-01", 
+                "trendingValue": 63.9
+            }, 
+            {
+                "date": "2011-05-01", 
+                "trendingValue": 60.3
+            }, 
+            {
+                "date": "2011-06-01", 
+                "trendingValue": 61.9
+            }, 
+            {
+                "date": "2011-07-01", 
+                "trendingValue": 59.9
+            }, 
+            {
+                "date": "2011-08-01", 
+                "trendingValue": 57.5
+            }, 
+            {
+                "date": "2011-09-01", 
+                "trendingValue": 60.8
+            }, 
+            {
+                "date": "2011-10-01", 
+                "trendingValue": 60.2
+            }, 
+            {
+                "date": "2011-11-01", 
+                "trendingValue": 60.2
+            }, 
+            {
+                "date": "2011-12-01", 
+                "trendingValue": 58.5
+            }, 
+            {
+                "date": "2012-01-01", 
+                "trendingValue": 56.9
+            }, 
+            {
+                "date": "2012-02-01", 
+                "trendingValue": 58.7
+            }, 
+            {
+                "date": "2012-03-01", 
+                "trendingValue": 59.3
+            }, 
+            {
+                "date": "2012-04-01", 
+                "trendingValue": 59.6
+            }, 
+            {
+                "date": "2012-05-01", 
+                "trendingValue": 58.9
+            }, 
+            {
+                "date": "2012-06-01", 
+                "trendingValue": 56.9
+            }, 
+            {
+                "date": "2012-07-01", 
+                "trendingValue": 59.0
+            }, 
+            {
+                "date": "2012-08-01", 
+                "trendingValue": 58.4
+            }, 
+            {
+                "date": "2012-09-01", 
+                "trendingValue": 61.2
+            }, 
+            {
+                "date": "2012-10-01", 
+                "trendingValue": 58.7
+            }
+        ]
+    }, 
+    {
+        "name": "%MN", 
+        "key": "NPS_Telstra_NA_NA_NPS-CVA-MN", 
+        "time": [
+            {
+                "date": "2010-08-01", 
+                "trendingValue": 68.7
+            }, 
+            {
+                "date": "2010-09-01", 
+                "trendingValue": 67.4
+            }, 
+            {
+                "date": "2010-10-01", 
+                "trendingValue": 67.6
+            }, 
+            {
+                "date": "2010-11-01", 
+                "trendingValue": 67.4
+            }, 
+            {
+                "date": "2010-12-01", 
+                "trendingValue": 66.2
+            }, 
+            {
+                "date": "2011-01-01", 
+                "trendingValue": 64.9
+            }, 
+            {
+                "date": "2011-02-01", 
+                "trendingValue": 66.4
+            }, 
+            {
+                "date": "2011-03-01", 
+                "trendingValue": 66.0
+            }, 
+            {
+                "date": "2011-04-01", 
+                "trendingValue": 63.9
+            }, 
+            {
+                "date": "2011-05-01", 
+                "trendingValue": 60.3
+            }, 
+            {
+                "date": "2011-06-01", 
+                "trendingValue": 61.9
+            }, 
+            {
+                "date": "2011-07-01", 
+                "trendingValue": 59.9
+            }, 
+            {
+                "date": "2011-08-01", 
+                "trendingValue": 57.5
+            }, 
+            {
+                "date": "2011-09-01", 
+                "trendingValue": 60.8
+            }, 
+            {
+                "date": "2011-10-01", 
+                "trendingValue": 60.2
+            }, 
+            {
+                "date": "2011-11-01", 
+                "trendingValue": 60.2
+            }, 
+            {
+                "date": "2011-12-01", 
+                "trendingValue": 58.5
+            }, 
+            {
+                "date": "2012-01-01", 
+                "trendingValue": 56.9
+            }, 
+            {
+                "date": "2012-02-01", 
+                "trendingValue": 58.7
+            }, 
+            {
+                "date": "2012-03-01", 
+                "trendingValue": 59.3
+            }, 
+            {
+                "date": "2012-04-01", 
+                "trendingValue": 59.6
+            }, 
+            {
+                "date": "2012-05-01", 
+                "trendingValue": 58.9
+            }, 
+            {
+                "date": "2012-06-01", 
+                "trendingValue": 56.9
+            }, 
+            {
+                "date": "2012-07-01", 
+                "trendingValue": 59.0
+            }, 
+            {
+                "date": "2012-08-01", 
+                "trendingValue": 58.4
+            }, 
+            {
+                "date": "2012-09-01", 
+                "trendingValue": 61.2
+            }, 
+            {
+                "date": "2012-10-01", 
+                "trendingValue": 58.7
+            }
+        ]
+    }, 
+    {
+        "name": "%JKL", 
+        "key": "NPS_Telstra_NA_NA_NPS-CVA-JKL", 
+        "time": [
+            {
+                "date": "2010-08-01", 
+                "trendingValue": 68.7
+            }, 
+            {
+                "date": "2010-09-01", 
+                "trendingValue": 67.4
+            }, 
+            {
+                "date": "2010-10-01", 
+                "trendingValue": 67.6
+            }, 
+            {
+                "date": "2010-11-01", 
+                "trendingValue": 67.4
+            }, 
+            {
+                "date": "2010-12-01", 
+                "trendingValue": 66.2
+            }, 
+            {
+                "date": "2011-01-01", 
+                "trendingValue": 64.9
+            }, 
+            {
+                "date": "2011-02-01", 
+                "trendingValue": 66.4
+            }, 
+            {
+                "date": "2011-03-01", 
+                "trendingValue": 66.0
+            }, 
+            {
+                "date": "2011-04-01", 
+                "trendingValue": 63.9
+            }, 
+            {
+                "date": "2011-05-01", 
+                "trendingValue": 60.3
+            }, 
+            {
+                "date": "2011-06-01", 
+                "trendingValue": 61.9
+            }, 
+            {
+                "date": "2011-07-01", 
+                "trendingValue": 59.9
+            }, 
+            {
+                "date": "2011-08-01", 
+                "trendingValue": 57.5
+            }, 
+            {
+                "date": "2011-09-01", 
+                "trendingValue": 60.8
+            }, 
+            {
+                "date": "2011-10-01", 
+                "trendingValue": 60.2
+            }, 
+            {
+                "date": "2011-11-01", 
+                "trendingValue": 60.2
+            }, 
+            {
+                "date": "2011-12-01", 
+                "trendingValue": 58.5
+            }, 
+            {
+                "date": "2012-01-01", 
+                "trendingValue": 56.9
+            }, 
+            {
+                "date": "2012-02-01", 
+                "trendingValue": 58.7
+            }, 
+            {
+                "date": "2012-03-01", 
+                "trendingValue": 59.3
+            }, 
+            {
+                "date": "2012-04-01", 
+                "trendingValue": 59.6
+            }, 
+            {
+                "date": "2012-05-01", 
+                "trendingValue": 58.9
+            }, 
+            {
+                "date": "2012-06-01", 
+                "trendingValue": 56.9
+            }, 
+            {
+                "date": "2012-07-01", 
+                "trendingValue": 59.0
+            }, 
+            {
+                "date": "2012-08-01", 
+                "trendingValue": 58.4
+            }, 
+            {
+                "date": "2012-09-01", 
+                "trendingValue": 61.2
+            }, 
+            {
+                "date": "2012-10-01", 
+                "trendingValue": 58.7
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "impact": 0.4, 
+        "key": "NPS_Telstra_NA_NA_NPS-CVA-NPSScore", 
+        "name": "NPS Score", 
+        "is_parent": 1
+    }, 
+    {
+        "impact": 0.1, 
+        "key": "NPS_Telstra_NA_NA_NPS-CVA-Promoters", 
+        "name": "% Promoters", 
+        "is_parent": 0
+    }, 
+    {
+        "impact": 0, 
+        "key": "NPS_Telstra_NA_NA_NPS-CVA-Passives", 
+        "name": "% Passives", 
+        "is_parent": 0
+    }, 
+    {
+        "impact": -0.9, 
+        "key": "NPS_Telstra_NA_NA_NPS-CVA-Detractors", 
+        "name": "% Detractors", 
+        "is_parent": 0
+    }, 
+    {
+        "impact": 1, 
+        "key": "NPS_Telstra_NA_NA_NPS-CVA-Reactors", 
+        "name": "% Reactors", 
+        "is_parent": 0
+    }, 
+    {
+        "impact": 0.5, 
+        "key": "NPS_Telstra_NA_NA_NPS-CVA-XYZ", 
+        "name": "%XYZ", 
+        "is_parent": 1
+    }, 
+    {
+        "impact": 0.2, 
+        "key": "NPS_Telstra_NA_NA_NPS-CVA-ABC", 
+        "name": "%ABC", 
+        "is_parent": 0
+    }, 
+    {
+        "impact": -0.7, 
+        "key": "NPS_Telstra_NA_NA_NPS-CVA-UV", 
+        "name": "%UV", 
+        "is_parent": 0
+    }, 
+    {
+        "impact": 0.6, 
+        "key": "NPS_Telstra_NA_NA_NPS-CVA-MN", 
+        "name": "%MN", 
+        "is_parent": 0
+    }, 
+    {
+        "impact": -0.4, 
+        "key": "NPS_Telstra_NA_NA_NPS-CVA-JKL", 
+        "name": "%JKL", 
+        "is_parent": 0
+    }
+]
